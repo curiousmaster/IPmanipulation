@@ -67,6 +67,7 @@ def sortList(data):
 
 # --------------------------------------------------
 # create_ip()
+#   Create list of IP addresses from IP addresses and ranges
 # --------------------------------------------------
 def create_ip(data):
 
